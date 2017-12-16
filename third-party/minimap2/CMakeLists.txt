@@ -23,6 +23,7 @@ add_library(minimap2
     ${minimap2_SourceDir}/align.c
     ${minimap2_SourceDir}/bseq.c
     ${minimap2_SourceDir}/chain.c
+    ${minimap2_SourceDir}/esterr.c
     ${minimap2_SourceDir}/format.c
     ${minimap2_SourceDir}/hit.c
     ${minimap2_SourceDir}/index.c
